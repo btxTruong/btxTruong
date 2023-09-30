@@ -1,9 +1,10 @@
-<h5 align="left">Hi I'm Truong 👋</h1>
-<h6 align="left">A full-stack developer and mechanical engineer</h3>
+#### Hi I'm Truong 👋
+
+##### A full-stack developer and mechanical engineer from Viet Nam 🇻🇳
 
 - 🔭 I’m currently working on **health care project**
 
-- 📝 I regularly write articles on [truongbui.dev](truongbui.dev)
+- 📝 I regularly write articles on [truongbui.dev](https://truongbui.dev)
 
 - ⚡ Fun fact **a funny guy 😃**
 
