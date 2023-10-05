@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **health care project**
 
-- 📝 I regularly write articles on [truongbui.dev](https://truongbui.dev)
+- 📝 I regularly write articles on [truongbui.dev](https://www.truongbui.dev)
 
 - ⚡ Fun fact **a funny guy 😃**
 
