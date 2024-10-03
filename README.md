@@ -1,6 +1,6 @@
 #### Hi I'm Truong 👋
 
-##### A full-stack web developer and mechanical engineer from Vietnam 🇻🇳
+##### A full-stack engineer and mechanical engineer from Vietnam 🇻🇳
 
 - 🔭 I’m currently working on **health care project**
 
